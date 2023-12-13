@@ -6,4 +6,5 @@ authors:
     orcid: https://orcid.org/0000-0002-9225-0669
 title: "Implementation of adaptive cubic regularization algorithm"
 version: 0.0.2
+url: https://github.com/pbpf/adaptive_cubic_reg
 date-released: 2023-12-13
