@@ -4,9 +4,6 @@ authors:
   - family-names: Li
     given-names: Jun
     orcid: https://orcid.org/0000-0002-9225-0669
-title: "My Research Software"
-version: 2.0.4
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
-date-released: 2021-08-11
+title: "Implementation of adaptive cubic regularization algorithm"
+version: 0.0.2
+date-released: 2023-12-13
